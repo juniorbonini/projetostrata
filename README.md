@@ -33,7 +33,7 @@ Como o projeto utiliza apenas tecnologias nativas (HTML/CSS), basta seguir os pa
 Clone o repositório:
 
 Bash
-git clone https://github.com/juniorbonini/Links-Generator.git
+git clone git@github.com:juniorbonini/projetostrata.git
 Abra o arquivo index.html em qualquer navegador moderno.
 
 👤 Autor
